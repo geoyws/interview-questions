@@ -2,7 +2,7 @@
 
 ## Intro
 
-1. Please use [db-fiddle](https://db-fiddle.com) to complete this exercise and hand in your work.
+1. Please use [db-fiddle](https://www.db-fiddle.com/) to complete this exercise and hand in your work.
 2. Joins are very common in SQL work and a developer must be proficient in it.
 
 ## Instructions
