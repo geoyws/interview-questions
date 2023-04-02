@@ -2,7 +2,7 @@
 
 1. This exercise is meant to test your proficiency with arrays as a measure of your programming experience.
 2. Arrays are bread and butter to any workload and developers must be comfortable working with them.
-3. Please use [codepen](https://codepen.io) or [codesandbox](https://codesandbox.io) to hand in your work.
+3. Please use [codepen](https://codepen.io), [replit](https://replit.com) or [codesandbox](https://codesandbox.io) to hand in your work.
 
 ## Instructions 
 
